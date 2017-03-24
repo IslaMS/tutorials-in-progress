@@ -54,6 +54,10 @@
   * Test another hypothesis using a heirarchical model (Tut.7)
   * Create an Rmarkdown script of their work (Tut.6)
   * Upload the whole lot to a github repo (Tut.3)
+
+## Intro to Goole Earth Engine with Jeff Kerby (end of April)
+
+## Deep machine learning algorithms - just kidding
   
 # Website developments
 * Expandable dropdown boxes for parts of tutorials, to streamline tutorial page
@@ -74,6 +78,3 @@
 * Speak at the info sessions for 1st year EES, the info session for 4th year EES
 * Email lecturers to ask them to tell students about Coding Club, esp in their meetings with tutees
 * Email EVERYONE to tell them about CC and ask them to join our mailing list if they want
-
-
-
